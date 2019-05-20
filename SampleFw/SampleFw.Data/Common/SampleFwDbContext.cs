@@ -12,5 +12,7 @@ namespace SampleFw.Data.Common
             : base(options)
         {
         }
+
+        
     }
 }
