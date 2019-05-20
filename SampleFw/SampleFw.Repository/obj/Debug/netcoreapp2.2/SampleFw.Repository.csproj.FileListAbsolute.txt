@@ -1,0 +1,9 @@
+D:\projects\samplefw\SampleFw\SampleFw.Repository\bin\Debug\netcoreapp2.2\SampleFw.Repository.deps.json
+D:\projects\samplefw\SampleFw\SampleFw.Repository\bin\Debug\netcoreapp2.2\SampleFw.Repository.dll
+D:\projects\samplefw\SampleFw\SampleFw.Repository\bin\Debug\netcoreapp2.2\SampleFw.Repository.pdb
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.csprojAssemblyReference.cache
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.csproj.CoreCompileInputs.cache
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.AssemblyInfoInputs.cache
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.AssemblyInfo.cs
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.dll
+D:\projects\samplefw\SampleFw\SampleFw.Repository\obj\Debug\netcoreapp2.2\SampleFw.Repository.pdb
