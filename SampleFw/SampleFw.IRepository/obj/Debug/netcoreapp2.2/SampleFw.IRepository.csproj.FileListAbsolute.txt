@@ -1,9 +1,0 @@
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\bin\Debug\netcoreapp2.2\SampleFw.IRepository.deps.json
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\bin\Debug\netcoreapp2.2\SampleFw.IRepository.dll
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\bin\Debug\netcoreapp2.2\SampleFw.IRepository.pdb
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.csprojAssemblyReference.cache
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.csproj.CoreCompileInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.AssemblyInfoInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.AssemblyInfo.cs
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.dll
-D:\projects\samplefw\SampleFw\SampleFw.IRepository\obj\Debug\netcoreapp2.2\SampleFw.IRepository.pdb

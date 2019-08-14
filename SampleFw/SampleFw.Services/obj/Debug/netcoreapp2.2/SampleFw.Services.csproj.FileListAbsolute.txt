@@ -1,8 +1,0 @@
-D:\projects\samplefw\SampleFw\SampleFw.Services\bin\Debug\netcoreapp2.2\SampleFw.Services.deps.json
-D:\projects\samplefw\SampleFw\SampleFw.Services\bin\Debug\netcoreapp2.2\SampleFw.Services.dll
-D:\projects\samplefw\SampleFw\SampleFw.Services\bin\Debug\netcoreapp2.2\SampleFw.Services.pdb
-D:\projects\samplefw\SampleFw\SampleFw.Services\obj\Debug\netcoreapp2.2\SampleFw.Services.csproj.CoreCompileInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.Services\obj\Debug\netcoreapp2.2\SampleFw.Services.AssemblyInfoInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.Services\obj\Debug\netcoreapp2.2\SampleFw.Services.AssemblyInfo.cs
-D:\projects\samplefw\SampleFw\SampleFw.Services\obj\Debug\netcoreapp2.2\SampleFw.Services.dll
-D:\projects\samplefw\SampleFw\SampleFw.Services\obj\Debug\netcoreapp2.2\SampleFw.Services.pdb

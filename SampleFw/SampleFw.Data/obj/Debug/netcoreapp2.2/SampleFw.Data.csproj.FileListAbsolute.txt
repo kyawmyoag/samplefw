@@ -1,9 +1,0 @@
-D:\projects\samplefw\SampleFw\SampleFw.Data\bin\Debug\netcoreapp2.2\SampleFw.Data.deps.json
-D:\projects\samplefw\SampleFw\SampleFw.Data\bin\Debug\netcoreapp2.2\SampleFw.Data.dll
-D:\projects\samplefw\SampleFw\SampleFw.Data\bin\Debug\netcoreapp2.2\SampleFw.Data.pdb
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.csprojAssemblyReference.cache
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.csproj.CoreCompileInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.AssemblyInfoInputs.cache
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.AssemblyInfo.cs
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.dll
-D:\projects\samplefw\SampleFw\SampleFw.Data\obj\Debug\netcoreapp2.2\SampleFw.Data.pdb
